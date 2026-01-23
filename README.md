@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ihebbgd/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ihebbgd/leet/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
