@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ihebbgd/leet/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ihebbgd/leet/tree/master/0014-longest-common-prefix) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ihebbgd/leet/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ihebbgd/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -49,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ihebbgd/leet/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ihebbgd/leet/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ihebbgd/leet/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Sorting
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ihebbgd/leet/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
