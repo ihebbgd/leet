@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ihebbgd/leet/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ihebbgd/leet/tree/master/0014-longest-common-prefix) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ihebbgd/leet/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/ihebbgd/leet/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ihebbgd/leet/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ihebbgd/leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ihebbgd/leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ihebbgd/leet/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
